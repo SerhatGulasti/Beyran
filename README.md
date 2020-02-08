@@ -12,18 +12,19 @@ Beyran is a simple wrapper that allows you to read Wikipedia articles on the ter
 * .TXT export mode.
 * Wikipedia links automatically copy to your clipboard.
 
-
+## Why I made this program?
+I don't know. Just I need Python practice so I made this program
 
 ## TO-DO List
 - [ ] Readable txt output 
 - [ ] PDF output option
 - [ ] HTML output option
-- [ ] Cleaner code
+- [ ] If this code looks terrible, you don't need to be afraid. I'll rewrite all of this code in future.
 - [ ] Making search with single command and arguments
 - [ ] Section view for articles
 - [ ] Better full page mode divided by sections
 - [ ] Better reader mode (maybe?)
-- [X] "See Also" option in summary and full page modes
+- [X] "See Also" option in full page mode
 
 ## Used Modules
 - [Wikipedia 1.4.0](https://pypi.org/project/wikipedia/)
