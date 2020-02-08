@@ -1,6 +1,6 @@
 # Beyran
 
-Beyran is a simple wrapper that allows you to read Wikipedia articles on the terminal. This project just for making Python practice and  in development. You can see several bugs and stupid code blocks. If you have any advice, please tell me.
+Beyran is a simple wrapper that allows you to read Wikipedia articles on the terminal. This project just for Python practice and in development. You can see several bugs and stupid code blocks. If you have any advice, please tell me.
 ![main screen](http://tinyimg.io/i/artYQ9F.png)
 
 ## For run
@@ -9,7 +9,7 @@ Beyran is a simple wrapper that allows you to read Wikipedia articles on the ter
 ## Features
 * Direct search from Wikipedia
 * You can view only summary. If you want you can read full article from terminal.
-* .TXT export mode.
+* ~~.TXT export mode.~~ (This output looks awful. I disabled it for now and I'll rewrite this code.)
 * Wikipedia links automatically copy to your clipboard.
 
 ## Why I made this program?
@@ -27,6 +27,7 @@ Beyran is traditional Turkish soup made with lamb meat, spice, lots of garlic an
 - [ ] Section view for articles
 - [ ] Better full page mode divided by sections
 - [ ] Better reader mode (maybe?)
+- [ ] A sensible manual. I know you'll need this. 
 - [X] "See Also" option in full page mode
 
 ## Used Modules
