@@ -15,6 +15,9 @@ Beyran is a simple wrapper that allows you to read Wikipedia articles on the ter
 ## Why I made this program?
 I don't know. Just I need Python practice so I made this program
 
+## What is beyran?
+Beyran is traditional Turkish soup made with lamb meat, spice, lots of garlic and pain. Beyran is not relevant with project itself.
+
 ## TO-DO List
 - [ ] Readable txt output 
 - [ ] PDF output option
