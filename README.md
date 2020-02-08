@@ -30,6 +30,9 @@ Beyran is traditional Turkish soup made with lamb meat, spice, lots of garlic an
 - [ ] A sensible manual. I know you'll need this. 
 - [X] "See Also" option in full page mode
 
+## Thanks
+nobody. no one helps me about this project. (yet. I hope.)
+
 ## Used Modules
 - [Wikipedia 1.4.0](https://pypi.org/project/wikipedia/)
 - [Pyperclip 1.7.0](https://pypi.org/project/pyperclip/)
