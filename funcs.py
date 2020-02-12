@@ -128,7 +128,14 @@ def seeSections(page):
     pageArray = page.content.split("\n")
     for i in pageArray:
         if i[0:3] == "===" or i[0:3] == "== ":
-            sectionArray.append(str(i).replace("=",""))
+            if i[0:3] == "== ":
+                i = str(i) + "2"
+                sectionArray.append(str(i).replace("=",""))
+                
+            elif i[0:3] == "===":
+                i = str(i) + "3"
+                sectionArray.append(str(i).replace("=",""))
+                
 
     for i in sectionArray:
         i = i.strip()
