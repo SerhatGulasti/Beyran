@@ -41,3 +41,6 @@ nobody. no one helps me about this project. (yet. I hope.)
 
 ![summary screen](http://tinyimg.io/i/VG9l7BH.png)
 ![full result](http://tinyimg.io/i/8OTi79Z.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyOTUwNDcwMl19
+-->
