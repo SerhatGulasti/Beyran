@@ -12,6 +12,7 @@ wikipedia = "*"
 colorama = "*"
 pyperclip = "*"
 click = "*"
+pipfile = "*"
 
 [requires]
 python_version = "3.8"
