@@ -27,7 +27,7 @@ Jinja2==2.11.1
 keyutils==0.6
 libmsym==0.2.4
 lutris==0.5.4
-lxml==4.5.0
+lxml==4.6.2
 Mako==1.1.2
 mallard-ducktype==1.0.2
 Markdown==3.1.1
