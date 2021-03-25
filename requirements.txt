@@ -60,7 +60,7 @@ python-distutils-extra==2.39
 python-Levenshtein==0.12.0
 pytoml==0.1.21
 pyxdg==0.26
-PyYAML==5.3
+PyYAML==5.4
 qutebrowser==1.10.1
 ranger-fm==1.9.3
 requests==2.23.0
